@@ -98,7 +98,7 @@ class ProductDetails extends Component {
                         ¡Contactanos!
                       </Link>
 
-                      <span>(470) 274 1040</span>
+                      <span>(470) 274 1040 </span>
                     </div>
                   </div>
                 </Col>
