@@ -48,11 +48,8 @@ function CourseFilter() {
                         <Col md="12">
                             <div className="filter-btns text-center">
                                 <ul className="filter-btn-list list-unstyled list inline">
-                                    <li data-target="*" className="active list-inline-item">All Courses</li>
+                                    <li data-target="*" className="active list-inline-item">Cursos</li>
                                     <li data-target="desi" className="list-inline-item">Web Design</li>
-                                    <li data-target="deve" className="list-inline-item">Web Development</li>
-                                    <li data-target="seo" className="list-inline-item">Seo</li>
-                                    <li data-target="prog" className="list-inline-item">Programming</li>
                                 </ul>
                             </div>
                             <Row className="filter-items">

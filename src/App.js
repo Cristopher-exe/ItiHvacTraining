@@ -54,7 +54,7 @@ function App() {
                 <Route path={`${process.env.PUBLIC_URL + "/blog-grid"}`} component={BlogGrid} />
                 <Route path={`${process.env.PUBLIC_URL + "/blog-details"}`} component={BlogDetails} />
                 <Route path={`${process.env.PUBLIC_URL + "/products"}`} component={Product} />
-                <Route path={`${process.env.PUBLIC_URL + "/product-details"}`} component={ProductDetails} />
+                <Route path={`${process.env.PUBLIC_URL + "/product-details/:id"}`} component={ProductDetails} />
                 <Route path={`${process.env.PUBLIC_URL + "/cart"}`} component={Cart} />
             </Switch>
         </Router>

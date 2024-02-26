@@ -7,7 +7,7 @@ export const Styles = styled.div`
         border : 1px solid ${colors.border1};
         padding: 15px 20px 20px;
         border-radius : 5px;
-        margin: 30px 0;
+        margin: 0px 0;
         h5 {
             color : ${colors.black1};
             font-weight : 600;

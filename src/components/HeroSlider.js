@@ -53,8 +53,8 @@ class HeroSlider extends Component {
                                                                 <h1>{data.desc}</h1>
                                                             </div>
                                                             <div className="slider-btn">
-                                                                <Link className="slider-btn1" to={process.env.PUBLIC_URL + `/${data.btnOneLink}`}>Our Courses</Link>
-                                                                <Link className="slider-btn2" to={process.env.PUBLIC_URL + `/${data.btnTwoLink}`}>Contact Us</Link>
+                                                                <Link className="slider-btn1" to="/course-list">Cursos</Link>
+                                                                <Link className="slider-btn2" to="/contact">Cont&aacute;ctanos</Link>
                                                             </div>
                                                         </div>
                                                     </Col>

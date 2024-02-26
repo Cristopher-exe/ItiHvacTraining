@@ -34,7 +34,7 @@ function FaqEvent() {
                                 <Row>
                                     <Col md="12">
                                         <div className="sec-title">
-                                            <h4>Upcoming <span>Events</span></h4>
+                                            <h4>Upcoming 78<span>Events</span></h4>
                                         </div>
                                     </Col>
                                     <Col md="12">

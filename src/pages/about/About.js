@@ -21,7 +21,7 @@ class About extends Component {
                     <HeaderTwo />
 
                     {/* Breadcroumb */}
-                    <BreadcrumbBox title="About Us" />
+                    <BreadcrumbBox title="Nosotros" />
 
                     {/* About Area */}
                     <AboutUs />
@@ -34,9 +34,6 @@ class About extends Component {
 
                     {/* Testimonial Slider */}
                     <TestimonialSlider />
-
-                    {/* Faq & Event Area */}
-                    <FaqEvent />
 
                     {/* Footer 2 */}
                     <FooterTwo />

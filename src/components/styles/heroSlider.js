@@ -75,7 +75,7 @@ export const Styles = styled.div`
                                     a.slider-btn1 {
                                         font-size : 14px;
                                         color     : #fff;
-                                        background: ${colors.gr_bg};
+                                        background: #3B7FCF;
                                         display   : inline-block;
                                         width     : 145px;
                                         height    : 40px;
@@ -84,7 +84,7 @@ export const Styles = styled.div`
                                         border-radius : 5px;
 
                                         &:hover {
-                                            background: ${colors.gr_bg2};
+                                            background: #6EA5E5;
                                         }
                                     }
 
@@ -92,7 +92,7 @@ export const Styles = styled.div`
                                         font-size : 14px;
                                         color     : #fff;
                                         display   : inline-block;
-                                        background: ${colors.bg1};
+                                        background: ${colors.rednew};
                                         width     : 145px;
                                         height    : 40px;
                                         text-align: center;
@@ -101,7 +101,7 @@ export const Styles = styled.div`
                                         margin-left: 15px;
 
                                         &:hover {
-                                            background: ${colors.gr_bg};
+                                            background: ${colors.rednew2};
                                             border    : none;
                                             color     : #ffffff;
                                         }

@@ -31,38 +31,5 @@
         "courseTitle": "Digital Marketing Course",
         "courseDesc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.",
         "courseLink": "/course-details"
-    },
-    {
-        "id": "4",
-        "imgUrl": "course-4.jpg",
-        "authorImg": "author.jpg",
-        "authorName": "Jim Hunt",
-        "authorCourses": "09 Courses",
-        "price": "$15",
-        "courseTitle": "Zero to Hero in Python 3",
-        "courseDesc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.",
-        "courseLink": "/course-details"
-    },
-    {
-        "id": "5",
-        "imgUrl": "course-5.jpg",
-        "authorImg": "author.jpg",
-        "authorName": "Sara Kim",
-        "authorCourses": "17 Courses",
-        "price": "$21",
-        "courseTitle": "React JS, Angular & Vue JS",
-        "courseDesc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.",
-        "courseLink": "/course-details"
-    },
-    {
-        "id": "6",
-        "imgUrl": "course-6.jpg",
-        "authorImg": "author.jpg",
-        "authorName": "Shon Doe",
-        "authorCourses": "31 Courses",
-        "price": "$24",
-        "courseTitle": "Laravel API Development",
-        "courseDesc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur accusamus hic ea in autem debitis minima.",
-        "courseLink": "/course-details"
     }
 ]

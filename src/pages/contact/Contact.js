@@ -77,7 +77,7 @@ function Contact() {
                 <HeaderTwo />
 
                 {/* Breadcroumb */}
-                <BreadcrumbBox title="Contact Us" />
+                <BreadcrumbBox title="Contacto" />
 
                 {/* Contact Area */}
                 <section className="contact-area">
@@ -85,15 +85,15 @@ function Contact() {
                         <Row>
                             <Col md="4">
                                 <div className="contact-box-title">
-                                    <h4>Contact Info</h4>
+                                    <h4>Información</h4>
                                 </div>
                                 <div className="contact-icon-box d-flex">
                                     <div className="icon">
                                         <i className="las la-map-marker"></i>
                                     </div>
                                     <div className="box-content">
-                                        <h5>Our Location</h5>
-                                        <p>795 South Park Avenue, Long Island, Newyork, NY 94107.</p>
+                                        <h5>Ubicacion</h5>
+                                        <p>6041 Mableton pkwy SW Ste 146, Mableton, GA.</p>
                                     </div>
                                 </div>
                                 <div className="contact-icon-box d-flex">
@@ -101,7 +101,7 @@ function Contact() {
                                         <i className="las la-envelope-open"></i>
                                     </div>
                                     <div className="box-content">
-                                        <h5>Email Address</h5>
+                                        <h5>Correo</h5>
                                         <p>info@mydomain.com<br />enquery@edu.com</p>
                                     </div>
                                 </div>
@@ -110,8 +110,8 @@ function Contact() {
                                         <i className="las la-phone"></i>
                                     </div>
                                     <div className="box-content">
-                                        <h5>Phone Number</h5>
-                                        <p>+1 (396) 486 4709<br />+1 (396) 486 8419</p>
+                                        <h5>Telefono</h5>
+                                        <p>(470) 274 1040</p>
                                     </div>
                                 </div>
                                 <div className="contact-social">
@@ -127,37 +127,37 @@ function Contact() {
                             <Col md="8">
                                 <div className="contact-form">
                                     <div className="form-title">
-                                        <h4>Get In Touch</h4>
+                                        <h4>Contactanos</h4>
                                     </div>
                                     <div className="form-box">
                                         <form id="form_contact" className="form">
                                             <Row>
                                                 <Col md="6">
                                                     <p className="form-control">
-                                                        <input type="text" placeholder="Full Name" id="contact_name" />
+                                                        <input type="text" placeholder="Nombre completo" id="contact_name" />
                                                         <span className="contact_input-msg"></span>
                                                     </p>
                                                 </Col>
                                                 <Col md="6">
                                                     <p className="form-control">
-                                                        <input type="email" placeholder="Email Address" id="contact_email" />
+                                                        <input type="email" placeholder="Correo" id="contact_email" />
                                                         <span className="contact_input-msg"></span>
                                                     </p>
                                                 </Col>
                                                 <Col md="12">
                                                     <p className="form-control">
-                                                        <input type="text" placeholder="Subject" id="contact_subject" />
+                                                        <input type="text" placeholder="Asunto" id="contact_subject" />
                                                         <span className="contact_input-msg"></span>
                                                     </p>
                                                 </Col>
                                                 <Col md="12">
                                                     <p className="form-control">
-                                                        <textarea name="message" id="contact_message" placeholder="Enter Message"></textarea>
+                                                        <textarea name="message" id="contact_message" placeholder="Mensaje"></textarea>
                                                         <span className="contact_input-msg"></span>
                                                     </p>
                                                 </Col>
                                                 <Col md="12">
-                                                    <button>Send Message</button>
+                                                    <button>Enviar mensaje</button>
                                                 </Col>
                                             </Row>
                                         </form>

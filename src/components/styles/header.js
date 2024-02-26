@@ -54,11 +54,11 @@ export const Styles = styled.div`
                 li {
                     a {
                         font-size   : 14px;
-                        color       : ${colors.green};
+                        color       : #ffffff;
                         margin-right: 10px;
 
                         &:hover {
-                            color: #ffffff;
+                            color: #c8c8c8;
                         }
                     }
 
@@ -201,7 +201,7 @@ export const Styles = styled.div`
                 margin-right: 45px;
 
                 .box-icon {
-                    background  : ${colors.green};
+                    background  : ${colors.blue};
                     height      : 21px;
                     text-align  : center;
                     margin-top  : 10px;
@@ -225,7 +225,7 @@ export const Styles = styled.div`
                         border-style       : solid;
                         border-top-color   : transparent;
                         border-right-color : transparent;
-                        border-bottom-color: ${colors.green};
+                        border-bottom-color: ${colors.blue};
                         border-left-color  : transparent;
                         top                : -20px;
                         left               : 0;
@@ -237,7 +237,7 @@ export const Styles = styled.div`
                         position           : absolute;
                         border-width       : 10px 18px;
                         border-style       : solid;
-                        border-top-color   : ${colors.green};
+                        border-top-color   : ${colors.blue};
                         border-right-color : transparent;
                         border-bottom-color: transparent;
                         border-left-color  : transparent;

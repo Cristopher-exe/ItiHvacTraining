@@ -11,7 +11,7 @@ class CourseSidebar extends Component {
         return (
             <div className="course-sidebar">
                 <Row>
-                    <Col md="12">
+                    {/* <Col md="12">
                         <CourseSearch />
                     </Col>
                     <Col md="12">
@@ -19,13 +19,13 @@ class CourseSidebar extends Component {
                     </Col>
                     <Col md="12">
                         <CoursePrice />
-                    </Col>
+                    </Col> */}
                     <Col md="12">
                         <PopularCourse />
                     </Col>
-                    <Col md="12">
+                    {/* <Col md="12">
                         <CourseTag />
-                    </Col>
+                    </Col> */}
                 </Row>
             </div>
         )

@@ -52,9 +52,9 @@ class CourseItemList extends Component {
                     ))
                 }
                 
-                <Col md="12"  className="text-center">
+                {/* <Col md="12"  className="text-center">
                     <Pagination />
-                </Col>
+                </Col> */}
 
             </Fragment>
         )

@@ -2,12 +2,12 @@ export const colors = {
 
     bg1: "#182B49",
     bg2: "#F6F9FF",
-    gr_bg: "linear-gradient(90deg, #11B67A 0%, #009444 100%)",
+    gr_bg: "linear-gradient(90deg, #3B7FCF 0%, #6EA5E5 100%)",
     gr_bg2: "linear-gradient(90deg, #009444 0%, #11B67A 100%)",
     copy_bg: "#122340",
-    blue: "#2c97ea",
+    blue: "#3B7FCF",
     green: "#11B67A",
-    green2: "#00a76a",
+    green2: "#3B7FCF",
     red: "#ff6f6f",
     purple: "#84479c",
     yellow: "#fbab19",
@@ -24,6 +24,8 @@ export const colors = {
     footer1: "#1a1b25",
     footer2: "#16171f",
     ftext: "#8D8E92",
+    rednew:"#CF3B3B",
+    rednew2:"#E56E6E",
 
 }
 

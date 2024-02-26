@@ -6,7 +6,13 @@ import BackToTop from './common/BackToTop';
 import { Styles } from "./styles/footerOne.js";
 
 class Footer extends Component {
+
+    
     render() {
+        let today = new Date();
+        let year = today.getFullYear();
+
+
         return (
             <Styles>
                 {/* Footer Area */}
@@ -43,29 +49,7 @@ class Footer extends Component {
                                     </ul>
                                 </div>
                             </Col>
-                            <Col md="4">
-                                <div className="f-post">
-                                    <h5>Recent Post</h5>
-                                    <div className="post-box d-flex">
-                                        <div className="post-img">
-                                            <img src={process.env.PUBLIC_URL + "/assets/images/blog-2.jpg"} alt="" />
-                                        </div>
-                                        <div className="post-content">
-                                            <Link to={process.env.PUBLIC_URL +"/blog-details"}>Lorem ipsum dolor sit amet consectet adipisicing elit com...</Link>
-                                            <span>Mar 30, 2020</span>
-                                        </div>
-                                    </div>
-                                    <div className="post-box d-flex">
-                                        <div className="post-img">
-                                            <img src={process.env.PUBLIC_URL + "/assets/images/blog-3.jpg"} alt="" />
-                                        </div>
-                                        <div className="post-content">
-                                            <Link to={process.env.PUBLIC_URL +"/blog-details"}>Lorem ipsum dolor sit amet consectet adipisicing elit com...</Link>
-                                            <span>Mar 30, 2020</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </Col>
+                            
                         </Row>
                     </Container>
                 </footer>
@@ -76,7 +60,7 @@ class Footer extends Component {
                         <Row>
                             <Col md="6">
                                 <div className="copy-text">
-                                    <p>Copyright &copy; 2020 | Designed With <i className="las la-heart"></i> by <a href={process.env.PUBLIC_URL + "/"} target="_blank" rel="noopener noreferrer">SnazzyTheme</a></p>
+                                <p>Copyright &copy; {year} | Designed With <i className="las la-heart"></i> by <a href="https://github.com/Cristopher-exe" target="_blank" rel="noopener noreferrer">cristopher-exe</a></p>
                                 </div>
                             </Col>
                             <Col md="6" className="text-right">

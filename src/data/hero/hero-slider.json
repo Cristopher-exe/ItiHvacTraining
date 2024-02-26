@@ -1,19 +1,19 @@
 [
     {
         "id": "1",
-        "backgroundImage": "slider-1.jpg",
+        "backgroundImage": "hvac-contractor-tools.webp",
         "uniqClass": "slider-box slider-box1",
-        "title": "Welcome To Edulyn.",
-        "desc": "Best University In This Region Join With Us Today",
+        "title": "Iti Hvac Training",
+        "desc": "Los Mejores Cursos Sobre HVAC Unete a Nosotros.",
         "btnOneLink": "course-grid",
         "btnTwoLink": "contact"
     },
     {
         "id": "2",
-        "backgroundImage": "slider-2.jpg",
+        "backgroundImage": "imagen-fondo.png",
         "uniqClass": "slider-box slider-box2 text-right",
-        "title": "Welcome To Edulyn.",
-        "desc": "Best University In This Region Join With Us Today",
+        "title": "Iti Hvac Training",
+        "desc": "Los Mejores Cursos Sobre HVAC Unete a Nosotros.",
         "btnOneLink": "course-grid",
         "btnTwoLink": "contact"
     }

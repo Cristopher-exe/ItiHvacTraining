@@ -18,7 +18,7 @@ export const Styles = styled.div`
 
                     i {
                         font-size     : 18px;
-                        color         : ${colors.green};
+                        color         : #3B7FCF;
                         vertical-align: text-bottom;
                         margin-right  : 5px;
 
@@ -140,7 +140,7 @@ export const Styles = styled.div`
                 li {
                     a {
                         font-size  : 13px;
-                        color      : ${colors.green};
+                        color      : #3B7FCF;
                         background : ${colors.border1};
                         display    : inline-block;
                         width      : 25px;
@@ -150,7 +150,7 @@ export const Styles = styled.div`
                         border-radius : 5px;
 
                         &:hover {
-                            background: ${colors.green};
+                            background: #3B7FCF;
                             color     : #ffffff;
                         }
                     }
@@ -174,7 +174,7 @@ export const Styles = styled.div`
                         padding    : 0;
                         line-height: 28px;
                         i {
-                            color : ${colors.green};
+                            color : #3B7FCF;
                         }
                     }
                 }
@@ -221,7 +221,7 @@ export const Styles = styled.div`
                         }
 
                         &:hover {
-                            color: ${colors.green};
+                            color: #3B7FCF;
                         }
 
                         @media(max-width: 1199px) {

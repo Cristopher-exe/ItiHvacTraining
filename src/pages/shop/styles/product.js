@@ -78,7 +78,7 @@ export const Styles = styled.div`
                     a.item_view {
                         position: absolute;
                         font-size : 15px;
-                        bottom : 33%;
+                        bottom : 40%;
                         right : 100%;
                         z-index : 1;
                         background: transparent;
@@ -150,7 +150,7 @@ export const Styles = styled.div`
                     padding : 15px 0;
                     .pro-title {
                         margin-bottom: 6px;
-                        h5 {
+                        h6 {
                             a {
                                 color : ${colors.black1};
                                 font-weight: 600;
@@ -160,6 +160,8 @@ export const Styles = styled.div`
                             }
                         }
                     }
+
+                    
                     .pro-rating {
                         margin-bottom: 6px;
                         ul {

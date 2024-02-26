@@ -72,6 +72,9 @@ export const Styles = styled.div`
                         }
                     }
                 }
+
+                
+
                 .product-rating {
                     margin-bottom: 15px;
                     ul.rating {
@@ -275,6 +278,15 @@ export const Styles = styled.div`
                             background: ${colors.gr_bg2}; 
                         }
                     }
+
+                    h5 {
+                        margin-bottom: 10px;
+                    }
+
+                    span {
+                        font-size : 18px;
+                    }
+
                     a.wishlist-btn {
                         border: 1px solid ${colors.border3};
                         display: inline-block;
@@ -338,6 +350,14 @@ export const Styles = styled.div`
                             background : ${colors.gr_bg};
                             color : #ffffff;
                         }
+                    }
+                }
+
+                .prueba99{
+                    padding-left: 30px;
+
+                    li {
+                        font-size: 15px;
                     }
                 }
 

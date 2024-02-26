@@ -43,24 +43,24 @@ class AboutUs extends Component {
                                     <Row>
                                         <Col sm="4">
                                             <div className="counter-box box1 text-center">
-                                                <h3><CountUp end={970} duration={5} delay={1.5} /><i className="las la-plus"></i></h3>
-                                                <p>Happy Students</p>
+                                                <h3><CountUp end={100} duration={5} delay={1.5} /><i className="las la-plus"></i></h3>
+                                                <p>Graduados</p>
                                             </div>
                                         </Col>
                                         <Col sm="4">
                                             <div className="counter-box box2 text-center">
-                                                <h3><CountUp end={130} duration={5} delay={1.5} /><i className="las la-plus"></i></h3>
-                                                <p>Teachers</p>
+                                                <h3><CountUp end={5} duration={2} delay={1.5} /><i className="las la-plus"></i></h3>
+                                                <p>Maestros</p>
                                             </div>
                                         </Col>
                                         <Col sm="4">
                                             <div className="counter-box box3 text-center">
-                                                <h3><CountUp end={340} duration={5} delay={1.5} /><i className="las la-plus"></i></h3>
-                                                <p>Courses</p>
+                                                <h3><CountUp end={10} duration={5} delay={1.5} /><i className="las la-plus"></i></h3>
+                                                <p>Cursos</p>
                                             </div>
                                         </Col>
                                     </Row>
-                                    <Link className="readmore-btn" to={process.env.PUBLIC_URL + "/about"}>Read More</Link>
+                                    <Link className="readmore-btn" to="/about">Leer más</Link>
                                 </div>
                             </Col>
                         </Row>

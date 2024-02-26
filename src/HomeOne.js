@@ -38,22 +38,24 @@ export default class HomeOne extends Component {
                 < TestimonialSlider />
 
                 {/* Faq & Event Area */}
-                < FaqEvent />
+                {/* < FaqEvent /> */}
 
                 {/* Team Slider */}
-                < TeamSlider />
-
-                {/* Help Area */}
-                < HelpArea />
-
-                {/* Blog Area */}
-                < HomeBlog />
+                {/* < TeamSlider /> */}
 
                 {/* Campus Tour */}
                 < CampusTour />
 
+                {/* Help Area */}
+                {/* < HelpArea /> */}
+
+                {/* Blog Area */}
+                {/* < HomeBlog /> */}
+
+                
+
                 {/* Newsletter Form */}
-                < NewsletterForm />
+                {/* < NewsletterForm /> */}
 
                 {/* Footer */}
                 < Footer />

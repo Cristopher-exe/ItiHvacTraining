@@ -7,7 +7,7 @@ export const Styles = styled.div`
         background-position: center;
         background-repeat  : no-repeat;
         position           : relative;
-        padding            : 235px 0 55px;
+        padding            : 50px 0 55px;
 
         &:before {
             position  : absolute;

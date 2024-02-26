@@ -1,11 +1,40 @@
 [
     {
         "id": "1",
-        "productImg": "product-01.jpg",
-        "productTitle": "Product 01",
+        "productImg": "product_01.webp",
+        "productTitle": "RunTru 13 SEER AC (3 Ton)",
         "productUrl": "/product-details",
-        "price": "$99.00",
-        "discount": "-30%"
+        "price": "5,900",
+        "previousPrice": "7,999",
+        "discount": "",
+        "details": "El precio incluye el equipo, el material y el tiempo de instalación necesarios para instalar profesionalmente un nuevo sistema. Para garantizar un rendimiento óptimo, cumplimos con las especificaciones recomendadas por el fabricante para adaptar el equipo adecuado a su hogar. Todos los sistemas nuevos se prueban y ponen en marcha en el lugar.",
+        "productImgs": [
+            "product_01.webp",
+            "product_01_02.png"
+        ],
+        "specifications": [
+            "Serpentines de aluminio",
+            "Compresor Scroll",
+            "Funcionamiento silencioso (76 dB)",
+            "Opciones de tamaño más pequeño para espacios reducidos",
+            "Capacidad de hasta 5 toneladas",
+            "Ensamblado en Tyler, Texas"
+        ],
+        "measurements":[
+            "Unidad 2T",
+            "Altura: 28,6",
+            "Anchura: 25,6",
+            "Profundidad: 25,6"
+        ],
+        "warranty": [
+            "Garantía limitada de 5 años para las piezas funcionales",
+            "10 años de garantía para piezas funcionales con registro",
+            "20 años de garantía para el intercambiador de calor"
+        ],
+        "disclaimer": [
+            "Antes de programar la instalación, se requiere una visita al emplazamiento para realizar mediciones críticas, determinar el tamaño adecuado, la aplicación correcta y los códigos locales. Todos los precios están sujetos a cambios hasta que se complete la visita y se confirme la instalación.",
+            "El precio incluye una instalación básica similar en nuestra área de servicio. Algunos elementos pueden no estar incluidos y se revisarán durante la visita a la obra."
+        ]
     },
     {
         "id": "2",
